@@ -32,3 +32,6 @@ Main SQL concepts used in this project are:
 # Output
 ![](images/output_1.PNG)
 ![](images/output_2.PNG)
+
+# Conclusion
+![](images/conclusion.PNG)
